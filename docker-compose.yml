@@ -1,0 +1,10 @@
+services:
+  sandbox:
+    image: node:20 # Or python:3.11, depending on your vibe
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    tty: true
+    stdin_open: true
+    ports:
+      - "3000:3000" # For viewing the website later
