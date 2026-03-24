@@ -1,6 +1,8 @@
 # Hacker News Clone
 
-This is a modern Hacker News clone built for a hackathon using Next.js 15, Sanity.io, and Tailwind CSS.
+This is a Hacker News clone built using Gemini 3 preview with Next.js 15, Sanity.io, and Tailwind CSS.
+
+![Screenshot](./screenshot.png)
 
 ## Prerequisites
 
@@ -72,4 +74,4 @@ Make sure to add `http://localhost:3000` to the **CORS Origins** in your Sanity 
 - `docker-compose.yml`: Local development environment
 
 ---
-*Built with Gemini 3 CLI for the hackathon.*
+*Built with Gemini CLI for the hackathon.*
