@@ -2,7 +2,7 @@
 
 This is a Hacker News clone built using Gemini 3 preview with Next.js 15, Sanity.io, and Tailwind CSS.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.PNG)
 
 ## Prerequisites
 
